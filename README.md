@@ -7,7 +7,7 @@ For those hackers who are more inexperienced with video editing, there is a vide
 
 **If you have any trouble with this process, please feel free to reach out to Justin Bornais on the WinHacks server and I will gladly help you!
 
-### First, you will work with OBS Studio:
+## First, you will work with OBS Studio:
 
 1. Click the link [OBS Studio Download](https://obsproject.com/) to download the software.
 2. Follow the installation instructions.
@@ -28,35 +28,36 @@ For those hackers who are more inexperienced with video editing, there is a vide
    - Make sure you give yourself a 5 second pause before you start speaking during your recording, and also another 5 second pause before you stop recording. This will make editing and trimming a lot easier.
 6. Once you're done recording, hit *Stop Recording*. Now you're all set!
 
-### Now, you will download and install HitFilm Express:
+## Now, you will download and install HitFilm Express:
 
 1. [Download and install HitFilm Express.](https://fxhome.com/product/hitfilm-express) You can either hit the *Download HitFilm Express* button or the *Download FREE* button to download.
 2. A slider will pop up that looks like the image below. HitFilm Express is a software that is free that also comes with advanced editing tools, if you pay. For WinHacks, the free version is more than enough. To download for free, just slide the slider all the way to the left. The *Buy Now* button will change to *Download*. Click the Download button.
 
-![Slider](https://drive.google.com/file/d/1OhabHYrA7fsGonwe1pyriEbGry5JnRhr/view?usp=sharing)
+![Slider](https://drive.google.com/uc?export=view&id=1OhabHYrA7fsGonwe1pyriEbGry5JnRhr)
 
 3. You will be directed to a page where you will have to enter your display name (can be made up), country, email, password and age. For the option *Subscribe to our emails for special offers, exciting developments, free content & prizes.* simply click No.
 4. Once the page is filled out, click *Send me the Express download*. It will send a link to the email you provided.
 5. Go to this email and click the button *Get Your Express Installer*. Then click which operating system you have under Step 2. Then the installer will download. Next, follow the instructions in the installer and you will be good to go!
 
-### How to edit the template file:
+## How to edit the template file:
 
 1. Open the template file (extension .hfp) in HitFilm Express.
    - You may notice an error that says *The following files could not be found at their previously saved locations. Missing files will be relinked automatically where possible*. If this pops up, simply double-click one of the files that shows up in the popup box, then go to the Images folder in the repository and select the corresponding image.This should fix the issue if it pops up.
    
-   ![Error](https://drive.google.com/file/d/1BR_cr4J3ibV9qSJxsX7LHncG1XHKEMgK/view?usp=sharing)
+   ![Error](http://drive.google.com/uc?export=view&id=1BR_cr4J3ibV9qSJxsX7LHncG1XHKEMgK)
 2. Start editing! There are template texts in the project to edit the text to match your project. To edit this, double click on the corresponding box at the bottom portion of the *Editor*, and then click on the corresponding text box that gets highlighted on the main view. There you will be able to rewrite the text.
 3. Should you want to change some of the transitions (optional), you can change the duration by dragging the little boxes at the top of the main element.
 
-![Elements](https://drive.google.com/file/d/1BiOp4TPy8cSzeUnBVdgXu_w2WFlumobX/view?usp=sharing)
+![Elements](https://drive.google.com/uc?export=view&id=1BiOp4TPy8cSzeUnBVdgXu_w2WFlumobX)
 
 4. To add your OBS recordings, near the bottom-left corner of the screen, there should be a *Media* tab with a button *Import*. Click *Import* and then find your video recording. The video should show up below the Import button along with the other text elements and images. Drag the video to the tab in the Editor that says *Add Video/Screenshots Here*.
 
-![Main Editor](https://drive.google.com/file/d/1O3_CRZTNOjT7pguLoWenOXsUy7ryubzj/view?usp=sharing)
+![Main Editor](https://drive.google.com/uc?export=view&id=1O3_CRZTNOjT7pguLoWenOXsUy7ryubzj)
+
 5. To cut your video (should you have made an error), position the black play bar over where you want to cut the clip, select the video box (should display orange when selected) and right click it. Then click the option *Slice* or if you are using Windows, you can also use the keyboard shortcut Ctrl + Shift + D. This will split the clip into two. Do this over both areas where the error is, then you can delete the mistake.
 
 6. Keep on editing! Once you're done, at the top of the editor, click *Export/Export Now/Contents*. Then the video will export in the path given in the Output section of the Export tab (should be defaulted to your Videos folder).
 
-### That is everything you should know about video editing! Should you have any questions, please reach out to Justin Bornais in the WinHacks Discord Server.
+That is everything you should know about video editing! Should you have any questions, please reach out to Justin Bornais in the WinHacks Discord Server.
 
 ### Happy Hacking!
