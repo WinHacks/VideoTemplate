@@ -1,6 +1,6 @@
-# VideoTemplate
+# WinHacks Demo Video Template
 
-For those hackers who are more inexperienced with video editing, there is a video template here that’s free to use. You will need two different softwares to create your video:
+For those hackers who aren't experienced with video editing, there is a video template here that’s free to use. You will need two different softwares to create your video:
 
 - OBS Studio. This is the software you will be using to record your screen.
 - HitFilm Express. This is the video editing software where all the magic happens!
