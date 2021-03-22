@@ -18,7 +18,7 @@ For those hackers who aren't experienced with video editing, there is a video te
    - On the *Output* tab at the left:
      - Make sure under *Recording*, you have the option *Recording Format* set to mkv. Recording in mov or mp4 are also good options, but should something happen to your computer, only mkv will autosave most of the recording.
      - Under *Recording*, you should have the option *Recording Quality* to either "High Quality, Medium File Size" or "Indistinguishable Quality, Large File Size". Note the file size difference is small.
-     - Under *Recording*, make sure *Encoder* is set to "Software (x264)". This is usually the default option, but make sure this option is selected. If you have an NVIDIA GPU, you can also try selecting the option "Hardware (NVENC). This may result in an error on some machines.
+     - Under *Recording*, make sure *Encoder* is set to "Software (x264)". This is usually the default option, but make sure this option is selected. If you have an NVIDIA GPU, you can also try selecting the option "Hardware (NVENC)". This may result in an error on some machines.
    - On the *Video* tab at the left:
      - Make sure your *Base (Canvas) Resolution* option (this is the base resolution of your recording screen) is the same as your monitor's resolution (or if you have a 4K monitor, set it to 1080p to save CPU stress). Set your *Output (Scaled) Resolution* to the same value as the *Base (Canvas) Resolution* option.
      - Make sure your *Downscale Filter* is set to *Bicubic (Sharpened scaling, 16 samples)*.
